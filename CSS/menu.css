@@ -43,9 +43,6 @@
 	color: #ff0101;
 }
 
-.menu background-color:hover {
-	transition:transform .5s;
-}
 
 .menu li:hover ul{
 	display:block;
